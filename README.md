@@ -85,6 +85,6 @@ I’m a developer who blends data science with fantasy. My personal projects rev
     <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrederickKnight&theme=vue-dark&hide_border=false" width = 400px/>
     <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrederickKnight&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" width = 400px/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrederickKnight&theme=vue-dark&show_icons=true&hide_border=false&layout=compact&cache_seconds=1800" width = 400px/>
   </p>
 </details>
