@@ -30,29 +30,41 @@
 ### [API-Chat](https://github.com/FrederickKnight/API-CHAT)
 > API to create and interact with an AI, meant to be a friendly/supportive conversation<br>
 > Solid architecture with SQLAlchemy, Flask, model inheritance, and user authentication.<br/>
-> Work in progress
+> Work in progress<br>
 
-🔹 Modular design with advanced inheritance  
-🔹 User authentication system
-🔹 Websocket events
-🔹 Gemini AI interaction (later on, this AI will be replaced with my own)
+🔹 Modular design with advanced inheritance<br>
+🔹 User authentication system<br>
+🔹 Websocket events<br>
+🔹 Gemini AI interaction (later on, this AI will be replaced with my own)<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000?style=flat&logo=flask)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-8B1C1C?style=flat)
 
 ---
 
 ### [Chat-Zoe](https://github.com/FrederickKnight/CHAT-ZOE)
 > Web builded in Astro and React, meant to be a prototype for an mobile app<br>
-> Interaction between an user with a friendly AI
-> Work in progress
+> Interaction between an user with a friendly AI<br>
+> Work in progress<br>
 
-🔹Direct integration with [API-Chat](#api-chat)
-#### [Web Zoe Chat](https://chat-zoe.onrender.com/)
+🔹Direct integration with [API-Chat](#api-chat)<br>
+🔹[Web Zoe Chat](https://chat-zoe.onrender.com/)<br>
 
+  ![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61dafb)
+  ![Astro](https://img.shields.io/badge/Astro-1B1F23?style=flat&logo=astro&logoColor=FF5D01)
+  ![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+  
 ---
 ### [Magical Cipher Disk](https://github.com/FrederickKnight/Magical_Cipher_Disk)
 > Fantasy-style cipher tool inspired by magical decoder rings and basic cryptography.<br/>
 
-🔹 Supports custom Caesar-style encryption  
-🔹 Designed to be used in RPGs or by Dungeon Masters or by some fantasy encryption.
+🔹 Supports custom Caesar-style encryption<br>
+🔹 Designed to be used in RPGs or by Dungeon Masters or by some fantasy encryption.<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000?style=flat&logo=flask)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-8B1C1C?style=flat)
 
 ---
 
