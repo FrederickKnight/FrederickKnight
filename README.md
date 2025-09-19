@@ -1,5 +1,5 @@
 <h1 align="center">Frederick Knight</h1>
-<h3 align="center">Backend developer | Learning Frontend| I make some "magical" tools for fun</h3>
+<h3 align="center">Backend developer | Learning Frontend | I make some "magical" tools for fun</h3>
 
 <p align="center">
   <a href="https://github.com/FrederickKnight"><img src="https://img.shields.io/github/followers/FrederickKnight?label=Follow&style=social"></a>
