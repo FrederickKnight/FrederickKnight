@@ -56,6 +56,23 @@
   ![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
   
 ---
+
+### [Mythica]()
+> Library for turn-based ecosystem simulation with extensible abilities, genetic algorithms, and deterministic RNG. Built with Pydantic, NumPy, and advanced OOP patterns.<br>
+> Work in Progress
+
+🔹 Modular architecture with Pydantic models, validators, and private attributes<br>
+🔹 Data-driven design: genes and abilities represented as NumPy arrays, serialized with SHA-based keys<br>
+🔹 Simulation engine: turn-based logic with deterministic RNG using random.Random and seed control<br>
+🔹 Genetic algorithm patterns: mutation, crossover, and lineage tracking integrated into object models<br>
+🔹 Extensible ability system: abilities loaded dynamically from Python classes or YAML<br>
+🔹 Logging and analytics: structured event logger capturing ecosystem state and interactions<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)
+
+---
+
 ### [Magical Cipher Disk](https://github.com/FrederickKnight/Magical_Cipher_Disk)
 > Fantasy-style cipher tool inspired by magical decoder rings and basic cryptography.<br/>
 
