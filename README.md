@@ -57,7 +57,7 @@
   
 ---
 
-### [Mythica]()
+### [Mythica](https://github.com/FrederickKnight/Mythica)
 > Library for turn-based ecosystem simulation with extensible abilities, genetic algorithms, and deterministic RNG. Built with Pydantic, NumPy, and advanced OOP patterns.<br>
 > Work in Progress
 
