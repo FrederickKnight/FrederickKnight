@@ -1,5 +1,5 @@
 <h1 align="center">Frederick Knight</h1>
-<h3 align="center">Backend developer | Learning Frontend | I make some "magical" tools for fun</h3>
+<h3 align="center">Backend-focused Full-Stack Developer | APIs, PostgreSQL & Cloud | I build useful and creative tools</h3>
 
 <p align="center">
   <a href="https://github.com/FrederickKnight"><img src="https://img.shields.io/github/followers/FrederickKnight?label=Follow&style=social"></a>
@@ -89,22 +89,20 @@
 
 Currently focusing on:
 
-- Modern web development with **Astro** and **React**
-- Best practices for packaging Python projects as libraries
-- Best practices for API development
-- Machine Learning and Deep Learning
-- Data Science
+- Modern frontend patterns (React, Astro)
+- API design & backend best practices
+- Testing, migrations, and production-ready workflows
+- Cloud & infrastructure fundamentals
 
 ---
 
 ## About Me
 
-I'm a developer who likes to make tools that can be usefull for me<br>
+I enjoy building practical tools that solve real problems, focusing on clean APIs, data modeling, and long-term maintainability<br>
 My personal projects revolve around learning new things and API's and tools for D&D<br>
 
 I enjoy:
 
-- Creating useful tools for roleplayers
 - Automating repetitive tasks
 - Playing with creative ideas like magical ciphers
 - Constantly learning new technologies to take my tools to the next level
