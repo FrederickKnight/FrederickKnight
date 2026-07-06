@@ -1,122 +1,135 @@
 <h1 align="center">Frederick Knight</h1>
-<h3 align="center">Backend-focused Full-Stack Developer | APIs, PostgreSQL & Cloud | I build useful and creative tools</h3>
 
 <p align="center">
-  <a href="https://github.com/FrederickKnight"><img src="https://img.shields.io/github/followers/FrederickKnight?label=Follow&style=social"></a>
-  <a href="https://www.linkedin.com/in/johnfrederickknight/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a>
+Backend-focused Full-Stack Developer specializing in production-ready APIs, cloud infrastructure and scalable software architecture.
 </p>
 
-## Technologies and Tools I Use
+<p align="center">
+<a href="https://jfknight.dev">Portfolio</a>
+<a href="https://www.linkedin.com/in/johnfrederickknight/">LinkedIn</a>
+</p>
+
+---
+
+# Tech Stack
+
+### Backend
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-5A5A5A?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLAlchemy-8B1C1C?style=for-the-badge&logo=sqlalchemy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb"/>
-  <img src="https://img.shields.io/badge/Astro-1B1F23?style=for-the-badge&logo=astro&logoColor=FF5D01"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-8B1C1C?style=for-the-badge&logo=sqlalchemy"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Astro-1B1F23?style=for-the-badge&logo=astro&logoColor=FF5D01"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+</p>
+
+### Cloud & DevOps
+
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
 </p>
 
 ---
 
-## Personal Projects
+# Featured Projects
 
-### [API-Chat](https://github.com/FrederickKnight/API-CHAT)
-> API to create and interact with an AI, meant to be a friendly/supportive conversation<br>
-> Solid architecture with SQLAlchemy, Flask, model inheritance, and user authentication.<br/>
-> Work in progress<br>
+## Bestiario Sushi
 
-🔹 Modular design with advanced inheritance<br>
-🔹 User authentication system<br>
-🔹 Websocket events<br>
-🔹 Gemini AI interaction (later on, this AI will be replaced with my own)<br>
+Production order management platform developed for a restaurant.
+
+Features
+
+- REST API built with FastApi
+- React Native mobile application
+- Desktop printing service
+- Real-time communication using WebSockets
+- Docker deployment
+- AWS infrastructure
+- Role-based authentication
+- Production environment supporting daily restaurant operations
+
+**Stack**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react)
+
+---
+
+## API Chat
+
+REST API focused on clean architecture and conversational AI.
+
+Features
+
+- Modular architecture
+- SQLAlchemy ORM
+- User authentication
+- WebSocket communication
+- Pydantic validation
+- Gemini AI integration
+
+**Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
 ![Flask](https://img.shields.io/badge/Flask-000?style=flat&logo=flask)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-8B1C1C?style=flat)
 
 ---
 
-### [Chat-Zoe](https://github.com/FrederickKnight/CHAT-ZOE)
-> Web builded in Astro and React, meant to be a prototype for an mobile app<br>
-> Interaction between an user with a friendly AI<br>
-> Work in progress<br>
+## Mythica
 
-🔹Direct integration with [API-Chat](#api-chat)<br>
-🔹[Web Zoe Chat](https://chat-zoe.onrender.com/)<br>
+Python library for deterministic ecosystem simulations.
 
-  ![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61dafb)
-  ![Astro](https://img.shields.io/badge/Astro-1B1F23?style=flat&logo=astro&logoColor=FF5D01)
-  ![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-  
----
+Features
 
-### [Mythica](https://github.com/FrederickKnight/Mythica)
-> Library for turn-based ecosystem simulation with extensible abilities, genetic algorithms, and deterministic RNG. Built with Pydantic, NumPy, and advanced OOP patterns.<br>
-> Work in Progress
+- Object-oriented architecture
+- Genetic algorithms
+- Deterministic simulation engine
+- Extensible ability system
+- Data-driven design
+- Pydantic models
 
-🔹 Modular architecture with Pydantic models, validators, and private attributes<br>
-🔹 Data-driven design: genes and abilities represented as NumPy arrays, serialized with SHA-based keys<br>
-🔹 Simulation engine: turn-based logic with deterministic RNG using random.Random and seed control<br>
-🔹 Genetic algorithm patterns: mutation, crossover, and lineage tracking integrated into object models<br>
-🔹 Extensible ability system: abilities loaded dynamically from Python classes or YAML<br>
-🔹 Logging and analytics: structured event logger capturing ecosystem state and interactions<br>
+**Stack**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat)
 
 ---
 
-### [Magical Cipher Disk](https://github.com/FrederickKnight/Magical_Cipher_Disk)
-> Fantasy-style cipher tool inspired by magical decoder rings and basic cryptography.<br/>
+# Current Focus
 
-🔹 Supports custom Caesar-style encryption<br>
-🔹 Designed to be used in RPGs or by Dungeon Masters or by some fantasy encryption.<br>
+Currently interested in:
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000?style=flat&logo=flask)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-8B1C1C?style=flat)
-
----
-
-## What I'm Learning
-
-Currently focusing on:
-
-- Modern frontend patterns (React, Astro)
-- API design & backend best practices
-- Testing, migrations, and production-ready workflows
-- Cloud & infrastructure fundamentals
+- Backend architecture
+- Distributed systems
+- Cloud-native applications
+- API design
+- Infrastructure automation
+- Software scalability
 
 ---
 
-## About Me
+# About Me
 
-I enjoy building practical tools that solve real problems, focusing on clean APIs, data modeling, and long-term maintainability<br>
-My personal projects revolve around learning new things and API's and tools for D&D<br>
+I enjoy designing software that solves real problems through clean architecture, maintainable code and reliable infrastructure.
 
-I enjoy:
+Most of my projects focus on backend development, APIs and cloud services, while also building modern frontends whenever they are part of the overall solution.
 
-- Automating repetitive tasks
-- Playing with creative ideas like magical ciphers
-- Constantly learning new technologies to take my tools to the next level
+I enjoy learning new technologies, automating repetitive processes and creating tools that are useful both professionally and personally.
 
 ---
-
-<details>
-  <summary>Github Stats</summary>
-  
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=FrederickKnight&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" width = 400px/>
-    <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrederickKnight&theme=vue-dark&hide_border=false" width = 400px/>
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrederickKnight&theme=vue-dark&show_icons=true&hide_border=false&layout=compact&cache_seconds=1800" width = 400px/>
-  </p>
-</details>
